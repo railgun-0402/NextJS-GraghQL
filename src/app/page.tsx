@@ -12,15 +12,15 @@ export default function Home() {
       </Head>
       <main className="text-center max-w-4xl p-8">
         <div className="bg-white bg-opacity-10 p-6 rounded-xl shadow-lg">
-          <h1 className="text-4xl font-bold mb-4">Hi, I'm railgun-0402!</h1>
+          <h1 className="text-4xl font-bold mb-4">Hi, I am railgun-0402!</h1>
           <p className="text-lg mb-6">
-            Welcome to my personal page! I'm a passionate developer who loves
+            Welcome to my personal page! I am a passionate developer who loves
             creating modern, user-friendly applications. With a strong
             background in Next.js, I enjoy solving complex problems and learning
             new technologies.
           </p>
           <p className="text-md mb-4">
-            In my free time, I enjoy programing and travel. I'm always open to
+            In my free time, I enjoy programing and travel. I am always open to
             collaborating on interesting projects or discussing new ideas.
           </p>
           <a
